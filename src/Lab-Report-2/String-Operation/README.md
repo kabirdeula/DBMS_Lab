@@ -25,7 +25,7 @@ ORDER BY stu_name;
 ---
 ```sql
 SELECT * FROM student
-WHERE stu_name REGEXP '[^aeiou]$';
+WHERE stu_name LIKE '[^aeiou]$';
 ```
 
 ### Output

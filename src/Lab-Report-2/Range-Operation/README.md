@@ -13,8 +13,8 @@ WHERE percentage BETWEEN 10 AND 30;
 | stu_id | stu_name          | stu_address | stu_faculty | stu_gender | percentage |
 | :----- | :---------------- | :---------- | :---------- | :--------- | ---------: |
 | 101    | Bijina Maharjan   | Kathmandu   | BCA         | Female     |         20 | 
-| 107    | Srijana Maharjan  | Kathmandu   | BBM         | Female     |         19 |
-| 110    | Shirish Manandhar | Kathmandu   | BIM         | Male       |         28 |
+| 111    | Srijana Maharjan  | Kathmandu   | BBM         | Female     |         19 |
+| 119    | Shirish Manandhar | Kathmandu   | BIM         | Male       |         28 |
 ---
 
 ## NOT BETWEEN

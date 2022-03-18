@@ -15,8 +15,8 @@ FROM student;
 | 101    | Bijina Maharjan  | Kathmandu   | BCA         | Female     |              30 |
 | 102    | Kabir Deula      | Kathmandu   | BCA         | Male       |              52 |
 | 103    | Deepali Adhikari | Ilam        | BBM         | Female     |              14 | 
-| 101    | Ashma Pahari     | Sarlahi     | BBM         | Female     |              86 |
-| 101    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |              81 |
+| 104    | Ashma Pahari     | Sarlahi     | BBM         | Female     |              86 |
+| 105    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |              81 |
 ---
 
 ## Subtraction
@@ -34,8 +34,8 @@ FROM student;
 | 101    | Bijina Maharjan  | Kathmandu   | BCA         | Female     |             15 |
 | 102    | Kabir Deula      | Kathmandu   | BCA         | Male       |             37 |
 | 103    | Deepali Adhikari | Ilam        | BBM         | Female     |             -1 | 
-| 101    | Ashma Pahari     | Sarlahi     | BBM         | Female     |             71 |
-| 101    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |             66 |
+| 104    | Ashma Pahari     | Sarlahi     | BBM         | Female     |             71 |
+| 105    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |             66 |
 ---
 
 ## Multiplication
@@ -53,8 +53,8 @@ FROM student;
 | 101    | Bijina Maharjan  | Kathmandu   | BCA         | Female     |             60 |
 | 102    | Kabir Deula      | Kathmandu   | BCA         | Male       |            126 |
 | 103    | Deepali Adhikari | Ilam        | BBM         | Female     |             12 | 
-| 101    | Ashma Pahari     | Sarlahi     | BBM         | Female     |            228 |
-| 101    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |            213 |
+| 104    | Ashma Pahari     | Sarlahi     | BBM         | Female     |            228 |
+| 105    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |            213 |
 ---
 
 ## Division
@@ -72,8 +72,8 @@ FROM student;
 | 101    | Bijina Maharjan  | Kathmandu   | BCA         | Female     |        10.0000 |
 | 102    | Kabir Deula      | Kathmandu   | BCA         | Male       |        21.0000 |
 | 103    | Deepali Adhikari | Ilam        | BBM         | Female     |         2.0000 | 
-| 101    | Ashma Pahari     | Sarlahi     | BBM         | Female     |        38.0000 |
-| 101    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |        35.5000 |
+| 104    | Ashma Pahari     | Sarlahi     | BBM         | Female     |        38.0000 |
+| 105    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |        35.5000 |
 ---
 
 ## Modulus
@@ -91,8 +91,8 @@ FROM student;
 | 101    | Bijina Maharjan  | Kathmandu   | BCA         | Female     |              0.5 |
 | 102    | Kabir Deula      | Kathmandu   | BCA         | Male       |              0.0 |
 | 103    | Deepali Adhikari | Ilam        | BBM         | Female     |              1.0 | 
-| 101    | Ashma Pahari     | Sarlahi     | BBM         | Female     |              1.0 |
-| 101    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |              0.5 |
+| 104    | Ashma Pahari     | Sarlahi     | BBM         | Female     |              1.0 |
+| 105    | Depen Tuladhar   | Kathmandu   | BTTM        | Male       |              0.5 |
 ---
 
 

@@ -22,7 +22,8 @@ SELECT * FROM student;
 
 ---
 ```sql
-SELECT * FROM student WHERE stu_faculty = 'BBM';
+SELECT * FROM student 
+WHERE stu_faculty = 'BBM';
 ```
 
 ### Output

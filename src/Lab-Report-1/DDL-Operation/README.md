@@ -58,5 +58,5 @@ DROP TABLE users;
 ## Delete a database
 
 ```sql
-DROP DATABASE brownpearl
+DROP DATABASE brownpearl;
 ```

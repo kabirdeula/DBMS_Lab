@@ -6,10 +6,21 @@ This repository maintains the lab reports of Database Management System Files wh
 # Table of Contents
 
 - [Overview](#overview)
-    - Lab Report 1
+    - [Lab Report 1](/src/Lab-Report-1/)
         - [DDL Operation](/src/Lab-Report-1/DDL-Operation/README.md)
         - [DML Operation](/src/Lab-Report-1/DML-Operation/README.md)
         - [Data Query Operation](src/Lab-Report-1/Data-Query-Operation/README.md)
+    - [Lab Report 2](/src/Lab-Report-2/)
+        - [Aggregate Operation](/src/Lab-Report-2/Aggregate-Operation/README.md)
+        - [Arithmetic Operation](/src/Lab-Report-2/Arithmetic-Operation/README.md)
+        - [Comparison Operation](/src/Lab-Report-2/Comparison-Operation/README.md)
+        - [Group by Clause](/src/Lab-Report-2/Group-by-Clause/README.md)
+        - [List Operation](/src/Lab-Report-2/List-Operation/README.md)
+        - [Logical Operation](/src/Lab-Report-2/Logical-Operation/README.md)
+        - [Range Operation](/src/Lab-Report-2/Range-Operation/README.md)
+        - [Set Operation](/src/Lab-Report-2/Set-Operation/README.md)
+        - [Sorting Operation](/src/Lab-Report-2/Sorting-Operation/README.md)
+        - [String Operation](/src/Lab-Report-2/String-Operation/README.md)
 - [My Process](#my-process)
     - [Technologies Used](#technologies-used)
     - [Useful Resources](#useful-resources)

@@ -1,0 +1,5 @@
+SELECT * FROM student
+WHERE percentage BETWEEN 10 AND 30;
+
+SELECT * FROM student
+WHERE percentage NOT BETWEEN 40 AND 60;

@@ -24,6 +24,8 @@ This repository maintains the lab reports of Database Management System Files wh
     - [Lab Report 3](/src/Lab-Report-3/)
         - [Set-Comparison](/src/Lab-Report-3/Set-Comparison/README.md)
         - [Sub-Query](/src/Lab-Report-3/Sub-Query/README.md)
+    - [Lab Report 4](/src/Lab-Report-4/)
+        - [Join Operation 1](/src/Lab-Report-4/Join-Operation-1/README.md)
 - [My Process](#my-process)
     - [Technologies Used](#technologies-used)
     - [Useful Resources](#useful-resources)

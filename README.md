@@ -27,6 +27,7 @@ This repository maintains the lab reports of Database Management System Files wh
     - [Lab Report 4](/src/Lab-Report-4/)
         - [Join Operation 1](/src/Lab-Report-4/Join-Operation-1/README.md)
         - [Join Operation 2](/src/Lab-Report-4/Join-Operation-2/README.md)
+        - [Join Operation 3](/src/Lab-Report-4/Join-Operation-3/README.md)
 - [My Process](#my-process)
     - [Technologies Used](#technologies-used)
     - [Useful Resources](#useful-resources)
